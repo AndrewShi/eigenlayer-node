@@ -2,6 +2,6 @@
   "name": "TCC Capital Test Node",
   "website": "https://app.eigenlayer.xyz/",
   "description": "Node for the Eigenlayer Test",
-  "logo": "https://i.seadn.io/gcs/files/abed2d007cf705a947e57555922a505b.webp?auto=format&dpr=1&w=1000",
+  "logo": "https://github.com/AndrewShi/eigenlayer-node/blob/458bf9f40ab28e258b020197663238235dceb7e0/eigen.png",
   "twitter": "https://twitter.com/KaijuWaste"
 }
